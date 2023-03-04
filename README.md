@@ -1,1 +1,1 @@
-# enzyme-thermal-stability-prediction
+# Enzyme Thermal Stability Prediction
